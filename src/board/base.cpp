@@ -12,6 +12,7 @@
 #include <map>
 #include <sstream>
 #include <iostream>
+#include <algorithm>
 
 #include "base.h"
 #include "chess.h"
